@@ -1,0 +1,16 @@
+Package: ros-noetic-dynaarm-description
+Version: 0.0.0-0focal
+Architecture: amd64
+Maintainer: jan <preisigj@student.ethz.ch>
+Installed-Size: 211554
+Depends: ros-noetic-romo, ros-noetic-series-elastic-actuator, ros-noetic-std-utils, ros-noetic-xacro
+Filename: ./ros-noetic-dynaarm-description_0.0.0-0focal_amd64.deb
+Size: 35803876
+MD5sum: 7898bda6a7fd09a21879b88e32364531
+SHA1: 094e93634f5446ba9e0fdb9873dcd82d8cf6addf
+SHA256: a306a10c7f24ba712e4dd908f32356a0b184c558874d1d15bf3d862c5774f0ad
+Section: misc
+Priority: optional
+Homepage: https://bitbucket.org/janpreisig/dynaarm_common
+Description: The dynaarm description
+
